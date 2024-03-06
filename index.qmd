@@ -1,5 +1,5 @@
 ---
-title: "quartoCourseBlog"
+title: "My Personal Website"
 listing:
   contents: posts
   sort: "date desc"
@@ -11,3 +11,11 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+### BIO
+
+Hello! I'm Elaine Yi, a third-year undergraduate at the University of Toronto. Currently pursuing a double major in Mathematics and Actuarial Science, and a minor in Statistics.
+
+Outside the world of numbers, you'll often find me going through snows on skis or capturing the moments through the lens of my camera. I love travelling and my top 3 destinations are Namibia, Norway and Egypt.
+
+As I navigate my academics and interests, I'm excited about the journey ahead and the stories waiting to be written.
