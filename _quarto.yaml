@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Personal Website"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - text: "resume"
+        href: resume.pdf
+
+

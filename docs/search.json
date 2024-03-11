@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Website",
     "section": "",
-    "text": "The content on this page is from about.qmd. Edit that file to change how this page looks.\n“About” pages are special quarto template pages, with multiple options: https://quarto.org/docs/websites/website-about.html.\nTry changing the template type from jolla to one of the other options for a different look and feel."
+    "text": "BIO\nHello! I’m Elaine Yi, a third-year undergraduate at the University of Toronto. Currently pursuing a double major in Mathematics and Actuarial Science, and a minor in Statistics.\nOutside the world of numbers, you’ll often find me going through snows on skis or capturing the moments through the lens of my camera. I love travelling and my top 3 destinations are Namibia, Norway and Egypt.\nAs I navigate my academics and interests, I’m excited about the journey ahead and the stories waiting to be written.\nI have attached my resume in PDF format in the top right corner, next to ‘Home’."
   },
   {
     "objectID": "readme.html",
@@ -89,19 +89,5 @@
     "title": "Using this quarto course blog template",
     "section": "",
     "text": "See this growing list of quarto resources for much, much more:\nhttps://github.com/mcanouil/awesome-quarto"
-  },
-  {
-    "objectID": "posts/my_first_post/index.html",
-    "href": "posts/my_first_post/index.html",
-    "title": "Resume",
-    "section": "",
-    "text": "My Bio\nHello! I’m Elaine Yi, a third-year undergraduate at the University of Toronto. Currently pursuing a double major in Mathematics and Actuarial Science, and a minor in Statistics.\nOutside the world of numbers, you’ll often find me going through snows on skis or capturing the moments through the lens of my camera. I love travelling and my top 3 destinations are Namibia, Norway and Egypt.\nAs I navigate my academics and interests, I’m excited about the journey ahead and the stories waiting to be written.\n\n\nResume\nIn this page, I have attached my resume in pdf form."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Personal Website",
-    "section": "",
-    "text": "BIO\nHello! I’m Elaine Yi, a third-year undergraduate at the University of Toronto. Currently pursuing a double major in Mathematics and Actuarial Science, and a minor in Statistics.\nOutside the world of numbers, you’ll often find me going through snows on skis or capturing the moments through the lens of my camera. I love travelling and my top 3 destinations are Namibia, Norway and Egypt.\nAs I navigate my academics and interests, I’m excited about the journey ahead and the stories waiting to be written.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\nintroduction\n\n\ngeneral\n\n\n\n\n\n\n\n\n\nMar 5, 2024\n\n\nBoxuan Yi\n\n\n\n\n\n\nNo matching items"
   }
 ]

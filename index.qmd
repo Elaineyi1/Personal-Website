@@ -1,14 +1,5 @@
 ---
 title: "My Personal Website"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  image-placeholder: "images/logo.png"
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
 title-block-banner: true
 ---
 
@@ -19,3 +10,5 @@ Hello! I'm Elaine Yi, a third-year undergraduate at the University of Toronto. C
 Outside the world of numbers, you'll often find me going through snows on skis or capturing the moments through the lens of my camera. I love travelling and my top 3 destinations are Namibia, Norway and Egypt.
 
 As I navigate my academics and interests, I'm excited about the journey ahead and the stories waiting to be written.
+
+I have attached my resume in PDF format in the top right corner, next to 'Home'.
